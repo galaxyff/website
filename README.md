@@ -4,4 +4,4 @@
 
 [WEBSITE](https://website-gg.herokuapp.com/)
 
-![image](https://user-images.githubusercontent.com/75833882/109935568-bd508500-7cf3-11eb-9760-0066a887d5f6.png)
+![image](https://user-images.githubusercontent.com/75833882/109935996-ed982380-7cf3-11eb-99ca-b0f376806d37.png)
