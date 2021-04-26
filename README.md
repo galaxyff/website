@@ -1,6 +1,6 @@
-# Website For My Discord Bot
+# Website For My Disney Music Bot
 
-[INVITE HERE](https://discord.com/oauth2/authorize?client_id=793714123702927360&permissions=8&scope=bot)
+[INVITE HERE](https://discord.com/oauth2/authorize?client_id=826795830111109153&permissions=37080128&scope=bot)
 
-[WEBSITE](https://website-gg.herokuapp.com/)
+[DISCORD](https://discord.gg/6eUDVFgtBB)
 
